@@ -213,3 +213,7 @@ section {
     font-weight: bolder;
     animation: gradientShift 8s ease-in-out infinite;
 }
+#center-reren {text-align: center;}
+.green { color:green; }
+.red { color:red;}
+.cursediveriverci {margin-left: 20px; position: absolute}
