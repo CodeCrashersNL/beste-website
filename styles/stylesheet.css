@@ -217,3 +217,25 @@ section {
 .green { color:green; }
 .red { color:red;}
 .cursediveriverci {margin-left: 20px; position: absolute}
+
+
+
+/* sams code */
+.samwashier {
+    color: whitesmoke;
+    font-size: 7px;
+}
+
+.insta {
+    display: block;
+    margin: 5px 0;
+    text-decoration: none;
+    color: blue;
+}
+
+.kleding {
+    display: block;
+    margin: 5px 0;
+    text-decoration: none;
+    color: blue;
+}
